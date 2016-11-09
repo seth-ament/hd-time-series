@@ -22,3 +22,11 @@ Seth Ament (1,8), Jocelynn Pearl (1,7), Andrea Grindeland (2), Jason St. Claire 
 S.A.A., J.P., and A.G. contributed equally to this work.
  
 The raw data from the full microarray dataset are available via the Gene Expression Omnibus (https://www.ncbi.nlm.nih.gov/geo/), accession GSE88920.
+
+Nathan Goodman (ISB) wrote the scripts for pre-processing of the microarray data contained in scripts/preprocess. Seth Ament wrote the scripts for data analysis containe in scripts/analysis.
+
+
+
+
+
+
